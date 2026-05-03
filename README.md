@@ -1,7 +1,7 @@
 # CREAM-SALES-USING-SARIMA-MODEL-BY-MUNEEB-12-3-1-020-2025
-# 🍦 Ice Cream Sales Prediction using SARIMA Model
+#  Ice Cream Sales Prediction using SARIMA Model
 
-## 📖 About the Project
+##  About the Project
 This project is related to prediction of monthly ice cream sales.
 The project uses Python based SARIMA (Seasonal ARIMA) Model to forecast ice cream sales in next 12 months.
 
@@ -14,14 +14,14 @@ This information is useful for businesses for planning their production, invento
 
 ---
 
-## 🎯 Objectives of the Project
+##  Objectives of the Project
 - Prediction of future monthly sales of ice cream
 - Analysis of the seasonal effect on sales of ice cream
 - Long-term sales trend study
 
 ---
 
-## 🛠️ Programming languages and Tools
+##  Programming languages and Tools
 - Python
 - Pandas
 - NumPy
@@ -31,7 +31,7 @@ This information is useful for businesses for planning their production, invento
 
 ---
 
-## ⚙️ Technical Details of the Model
+##  Technical Details of the Model
 - Model Used: SARIMA
 - ARIMA Order: (2,1,2)
 - Seasonal Order: (1,1,1,12)
@@ -40,7 +40,7 @@ Above mentioned model order was selected as best fit for the dataset.
 
 ---
 
-## 🚀 Working of the Model
+##  Working of the Model
 
 ### 1. Data Collection
 - Used ice cream sales data
@@ -69,24 +69,24 @@ Above mentioned model order was selected as best fit for the dataset.
 
 ---
 
-## 📊 Output of the Project
+## Output of the Project
 Project provides following results:
-- 📈 Plot of historical sales data
-- 🔮 Future forecast of 12 month
-- 📉 Evaluation Metrics of the model
+- Plot of historical sales data
+-  Future forecast of 12 month
+-  Evaluation Metrics of the model
 
 ---
 
-## 📝 Output Results Explanation
-- 📏 Black Line -> Actual Sales of Ice cream  
-- 🟧 Orange Line -> Predicted Data  
-- 🟢 Green Line -> Forecast data for Next 12 months
+##  Output Results Explanation
+-  Black Line -> Actual Sales of Ice cream  
+-  Orange Line -> Predicted Data  
+-  Green Line -> Forecast data for Next 12 months
 
 From above chart you can see that the model is able to capture both trend and seasonality in data.
 
 ---
 
-## 📂 File Structure of the Project
+##  File Structure of the Project
 Project files:
 - main.py -> Contains main code of the program
 - ice_cream.csv -> Contains ice cream sales data 
@@ -95,23 +95,23 @@ Project files:
 
 ---
 
-## 👨‍💻 Developed By
+##  Developed By
 - Muhammad Muneeb (12-3-1-020-2025)
 
 Department of Metallurgy and Material Engineering
 
 ---
 
-## 📅 Date of Submission
+##  Date of Submission
 Monday, 4th May 2026
 
 ---
 
-## ☁️ Cloud Storage Links
+##  Cloud Storage Links
 - Google Drive Link
 - https://drive.google.com/drive/folders/139i8FQcd_kiP7KzkplH2tpwCeD92ZWo_?usp=sharing
 
----
 
-## ✅ Conclusion
+
+##Conclusion
 In this project we developed SARIMA model which is quite successful in predicting sales of the Ice Cream.
